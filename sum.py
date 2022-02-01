@@ -1,4 +1,4 @@
 # adding two numbers
 
-def sum(a: int, b: int):
+def sum(a: float, b: float):
     return a+b
